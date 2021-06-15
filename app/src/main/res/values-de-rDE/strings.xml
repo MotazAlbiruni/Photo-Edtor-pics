@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foto Editor</string>
+    <string name="label_emoji">Emoji</string>
+    <string name="label_sticker">Aufkleber</string>
+    <string name="label_eraser">Radiergummi</string>
+    <string name="label_eraser_mode">Radiergummi-Modus</string>
+    <string name="label_text">Text</string>
+    <string name="label_filter">Filter</string>
+    <string name="label_adjust">Einstellen</string>
+    <string name="msg_save_image">Möchten Sie den Vorgang beenden, ohne das Bild zu speichern?</string>
+    <string name="msg_save_image_to_share">Bitte Bild zum Teilen speichern</string>
+    <string name="msg_share_image">Bild teilen</string>
+    <string name="label_brush">Bürste</string>
+    <string name="msg_select_picture">Bild auswählen</string>
+    <string name="msg_Saving">Speichern...</string>
+    <string name="msg_image_saved">Bild erfolgreich gespeichert</string>
+    <string name="msg_image_Failed">Fehler beim Speichern des Bildes</string>
+    <string name="msg_Save">speichern</string>
+    <string name="msg_cancel">Stornieren</string>
+    <string name="msg_discard">Verwerfen</string>
+</resources>

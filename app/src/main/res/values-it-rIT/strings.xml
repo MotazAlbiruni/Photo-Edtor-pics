@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Editor di foto</string>
+    <string name="label_sticker">Etichetta</string>
+    <string name="label_eraser">Gomma per cancellare</string>
+    <string name="label_eraser_mode">Modalità gomma</string>
+    <string name="label_text">Testo</string>
+    <string name="label_filter">Filtro</string>
+    <string name="label_adjust">Regolare</string>
+    <string name="msg_save_image">Vuoi uscire senza salvare l\'immagine?</string>
+    <string name="msg_save_image_to_share">Si prega di salvare l\'immagine per condividerla</string>
+    <string name="msg_share_image">Condividi immagine</string>
+    <string name="label_brush">Spazzola</string>
+    <string name="label_emoji">Emoji</string>
+    <string name="msg_select_picture">Seleziona immagine</string>
+    <string name="msg_Saving">Salvataggio...</string>
+    <string name="msg_image_saved">Immagine salvata con successo</string>
+    <string name="msg_image_Failed">Impossibile salvare l\'immagine</string>
+    <string name="msg_Save">Salva</string>
+    <string name="msg_cancel">Annulla</string>
+    <string name="msg_discard">Scartare</string>
+</resources>

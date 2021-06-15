@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">사진 편집기</string>
+    <string name="label_emoji">이모티콘</string>
+    <string name="label_sticker">상표</string>
+    <string name="label_eraser">지우개</string>
+    <string name="label_eraser_mode">지우개 모드</string>
+    <string name="label_text">본문</string>
+    <string name="label_filter">필터</string>
+    <string name="label_adjust">맞추다</string>
+    <string name="msg_save_image">이미지를 저장하지 않고 종료 하시겠습니까?</string>
+    <string name="msg_save_image_to_share">공유 할 이미지를 저장하세요</string>
+    <string name="msg_share_image">이미지 공유</string>
+    <string name="label_brush">브러시</string>
+    <string name="msg_select_picture">사진 선택</string>
+    <string name="msg_Saving">절약...</string>
+    <string name="msg_image_saved">이미지가 성공적으로 저장되었습니다</string>
+    <string name="msg_image_Failed">이미지를 저장하지 못했습니다.</string>
+    <string name="msg_Save">저장</string>
+    <string name="msg_cancel">취소</string>
+    <string name="msg_discard" translatable="false">포기</string>
+</resources>

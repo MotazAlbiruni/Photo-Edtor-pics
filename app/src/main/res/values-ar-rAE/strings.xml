@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محرر الصور</string>
+    <string name="label_brush">فرشاة</string>
+    <string name="label_emoji">الرموز التعبيرية</string>
+    <string name="label_sticker">ملصق</string>
+    <string name="label_eraser">ممحاة</string>
+    <string name="label_eraser_mode">وضع الممحاة</string>
+    <string name="label_text">نص</string>
+    <string name="label_filter">منقي</string>
+    <string name="label_adjust">يعدل</string>
+    <string name="msg_save_image">هل تريد الخروج بدون حفظ الصورة؟</string>
+    <string name="msg_save_image_to_share">يرجى حفظ الصورة للمشاركة</string>
+    <string name="msg_share_image">مشاركة الصورة</string>
+    <string name="msg_select_picture">أختر صورة</string>
+    <string name="msg_Saving">جاري الحفظ .....</string>
+    <string name="msg_image_saved">تم حفظ الصورة بنجاح</string>
+    <string name="msg_image_Failed">فشل فى حفظ الصورة</string>
+    <string name="msg_Save">حفظ</string>
+    <string name="msg_cancel">إلغاء</string>
+    <string name="msg_discard">عدم الحفظ</string>
+</resources>
